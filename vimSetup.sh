@@ -43,7 +43,7 @@ curl https://raw.githubusercontent.com/youmjww/configFile/master/.vimrc > ~/.vim
 echo \##############################################################
 echo 	  	プラグインのインスコ
 echo \##############################################################
-vim +":NeoBundleInstall" +:q
+vim +":NeoBundleInstall" +":q"
 
 echo \##############################################################
 echo		処理終了！！
