@@ -22,7 +22,7 @@ echo \##############################################################
 echo 			プラグインマネージャのインスコ
 echo \##############################################################
 
-git clone git://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+git clone https://github.com/Shougo/neobundle.vim.git ~/.vim/bundle/neobundle.vim
 
 echo \##############################################################
 echo 		環境設定ファイルや必要なプラグインをインスコ
