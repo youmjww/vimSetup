@@ -24,7 +24,7 @@ echo source ~/youmjww.vim/.vimrc > ~/.vimrc
 echo \##############################################################
 echo 			プラグインマネージャのインスコ
 echo \##############################################################
-mkdir ~/youmjww.vim/.vim/bundle
+mkdir -p ~/youmjww.vim/.vim/bundle
 git clone https://github.com/Shougo/neobundle.vim.git ~/youmjww.vim/.vim/bundle/neobundle.vim
 
 echo \##############################################################
